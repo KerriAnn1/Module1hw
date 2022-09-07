@@ -5,3 +5,7 @@
 ```
 Placing accessability into the html
 ```
+
+```
+Cleaning up the CSS
+```
