@@ -86,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 /*combining the css selectors and properties*/
+/* In benifit lead, brand, and cost, your margins will be 32px and a white color*/
 
 .benefit-lead, 
 .benefit-brand, 
@@ -103,6 +104,8 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }*/
+
+/*In benifit h3s, your margins are going to be bottom 10px and you text alighed center*/
 
 .benefit-lead h3, 
 .benefit-brand h3,
